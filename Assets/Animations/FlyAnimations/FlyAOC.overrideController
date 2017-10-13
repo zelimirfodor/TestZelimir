@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: FlyAOC
+  m_Controller: {fileID: 9100000, guid: ef500436d4234a246a201b181f405bba, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9a29f9ab6af849e4d97984fb16f17f2f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b89786c417c60c9438875da1ef9c1b77, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 549b6db74ef79c74ab3ed2172120a690, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e01c43e5ca4f3d84cb4aa72563f6d389, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4b02b7c85522c9248b281a650799778b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9afa012bf3ad4fa47978fe096e51d5aa, type: 2}
